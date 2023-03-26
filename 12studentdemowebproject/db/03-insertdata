@@ -1,0 +1,4 @@
+use studentweb;
+insert into student(first_name,last_name,email)values('john','doe','jdoe@gmail.com');
+insert into student(first_name,last_name,email)values('ram','tek','rtek@gmail.com');
+insert into student(first_name,last_name,email)values('sam','hello','shello@gmail.com');
